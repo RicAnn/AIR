@@ -1,4 +1,4 @@
-# AIR ITS V.A. RUIZ - Rome - Italy
+# AIR - Audio Open AI Robot - ITS V.A. RUIZ - Rome - Italy
 
 
 Audio Open AI Robot - Scripts with Open AI on Raspberry PI and Python
