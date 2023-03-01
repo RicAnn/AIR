@@ -11,7 +11,7 @@ from gtts import gTTS
 ###############################################################################################
 # risponde alla domanda
 def askGPT(text4qn):
-    openai.api_key = "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"
+    openai.api_key = "la tua chiave open ai"
     response = openai.Completion.create(
         engine = "text-davinci-003",
         prompt = text4qn,
