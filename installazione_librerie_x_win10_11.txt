@@ -1,0 +1,23 @@
+#installazioni su windows10/11
+
+pip install PyAudio-0.2.11-cp311-cp311-win_amd64.whl
+pip install pyttsx3
+pip install SpeechRecognition
+pip install gTTS 
+
+#da powershell
+#Get-PnpDevice -PresentOnly | Where-Object { $_.InstanceId -match ‘^USB’ }
+
+pip install -U openai-whisper
+pip install git+https://github.com/openai/whisper.git (erseguirlo da git)
+
+installa git
+
+
+pip install openai
+
+#pip install playsound
+
+#Command run as administrator
+#pip uninstall playsound
+pip install playsound==1.2.2
